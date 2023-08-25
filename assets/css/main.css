@@ -2595,7 +2595,7 @@ input, select, textarea {
 		background-attachment: scroll;
 		background-image: url("../../images/bg.jpg");
 		background-position: top left;
-		background-size: 25%;
+		background-size: 150%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
